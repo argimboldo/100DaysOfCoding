@@ -1,4 +1,4 @@
-# Tip Calculator 
+# Day 2 - Tip Calculator 
 print  ("Welcome to the Tip Calculator!")
 
 # Input
