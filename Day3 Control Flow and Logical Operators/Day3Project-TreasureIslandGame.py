@@ -1,4 +1,5 @@
-# Treasure Island
+# Treasure Island Game 
+# ASCII Art Source: https://ascii.co.uk/art
 print('''
  _                                     _     _                 _ 
 | |                                   (_)   | |               | |
