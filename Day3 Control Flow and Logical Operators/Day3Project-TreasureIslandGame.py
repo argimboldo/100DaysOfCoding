@@ -1,4 +1,4 @@
-# Treasure Island Game 
+# Day 3 - Treasure Island Game 
 # ASCII Art Source: https://ascii.co.uk/art
 print('''
  _                                     _     _                 _ 
